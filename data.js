@@ -80,7 +80,7 @@ window.DATA = {
       data: "julho · 2025",
       titulo: "Pirenópolis",
       legenda: "a primeira vez que eu fui pra serra",
-      foto: "fotos/pirenopolis.jpeg",
+      foto: "fotos/Pirenopolis.jpeg",
     },
     {
       data: "agosto · 2025",
@@ -92,7 +92,7 @@ window.DATA = {
       data: "outubro · 2025",
       titulo: "Gramado",
       legenda: "a viagem surpresa, que surprendeu a gente",
-      foto: "fotos/gramado.jpeg",
+      foto: "fotos/Gramado.jpeg",
     },
     {
       data: "13.05.2026",
